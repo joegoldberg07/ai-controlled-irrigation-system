@@ -1,0 +1,6 @@
+{
+  "sensor_01": "soil",
+  "sensor_02": "temperature",
+  "sensor_03": "humidity"
+}
+
